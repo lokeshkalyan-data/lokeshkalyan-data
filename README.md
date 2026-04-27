@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Lokeshkalyan 👋
 
-<!--
-**lokeshkalyan-data/lokeshkalyan-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌊 About Me
+M.Sc Ocean & Atmospheric Science student at University of Hyderabad.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Climate Data Analysis
+- Python (Learning)
+- AI & Prompt Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goal
+To work in ISRO / IMD and contribute to climate and atmospheric research.
+
+## 🚀 Current Focus
+- Learning Python for data analysis
+- Building climate-based projects
+
+## 📫 Contact
+lokeshkalyanbaddipudi4842@gmail.com
