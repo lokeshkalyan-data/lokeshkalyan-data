@@ -9,7 +9,7 @@ M.Sc Ocean & Atmospheric Science student at University of Hyderabad.
 - AI & Prompt Engineering
 
 ## 🎯 Goal
-To work in ISRO / IMD and contribute to climate and atmospheric research.
+To work in Ocean/Atmospheric Services and contribute to climate and atmospheric research.
 
 ## 🚀 Current Focus
 - Learning Python for data analysis
