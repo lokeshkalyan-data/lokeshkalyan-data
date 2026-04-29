@@ -1,19 +1,19 @@
-# Hi, I'm Lokeshkalyan 👋
+# Hi, I'm Lokeshkalyan
 
-## 🌊 About Me
+##  About Me
 M.Sc Ocean & Atmospheric Science student at University of Hyderabad.
 
-## 💻 Skills
+## Skills
 - Climate Data Analysis
 - Python (Learning)
 - AI & Prompt Engineering
 
-## 🎯 Goal
+## Goal
 To work in Ocean/Atmospheric Services and contribute to climate and atmospheric research.
 
-## 🚀 Current Focus
+## Current Focus
 - Learning Python for data analysis
 - Building climate-based projects
 
-## 📫 Contact
+## Contact
 lokeshkalyanbaddipudi4842@gmail.com
